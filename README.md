@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:960/1*PU2HIQPK7xJWMySHDyhEDA.gif)
+### <div align="center">![MasterHead](https://miro.medium.com/v2/resize:fit:960/1*PU2HIQPK7xJWMySHDyhEDA.gif)</div> 
 
 ### <div align="center">I'm Joni Kumala, an enthusiast of web3 program </div>  
   
